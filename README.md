@@ -3,7 +3,7 @@
 
 ## Artikel
 
-Dieses Dokument beschreibt die Vorprozessierung und explorative Analyse des Datensatzes, der Grundlage des auf srf.ch veröffentlichten Artikel [xyz](https://www.srf.ch/data) ist.
+Dieses Dokument beschreibt die Vorprozessierung und explorative Analyse des Datensatzes, der Grundlage des auf srf.ch veröffentlichten Artikel [Wenn fehlende Parlamentarier den Unterschied machen ](https://www.srf.ch/news/schweiz/abstimmungen-im-nationalrat-wenn-fehlende-parlamentarier-den-unterschied-machen) ist.
 
 ### Vorprozessierung und Analyse
 
